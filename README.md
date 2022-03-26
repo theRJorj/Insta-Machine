@@ -30,3 +30,6 @@ Features:
   
 
 In the end, anyone is welcome to contribute to this app. there is a lot of room for improvements. Please check my github for my other projects.
+
+
+DOWNLOAD EXE INSTALLER: https://1drv.ms/u/s!AjAyZs55CVVTaQS_MAbIXvbBd4c

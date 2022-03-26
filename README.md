@@ -21,12 +21,12 @@ Features:
 9. Downloads all Images.
 10. Reports.
 11. Filers Data by:
-  -Image Recognition(image AI).
-  -OCR or texts scan in images. (NOTE: You need to have tesseract installed on your pc. as a developer you can add new languages too)
-  -Particular text on a caption.
-  -Likes count.
-  -Date posted.
-  -Price/Phone
+Image Recognition(image AI).
+OCR or texts scan in images. (NOTE: You need to have tesseract installed on your pc. as a developer you can add new languages too)
+Particular text on a caption.
+Likes count.
+Date posted.
+Price/Phone
   
 
 In the end, anyone is welcome to contribute to this app. there is a lot of room for improvements. Please check my github for my other projects.

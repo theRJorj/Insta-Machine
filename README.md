@@ -6,7 +6,7 @@ by R.Jorj
 
 
 InstaMachine is a post-oriented Instagram bot which means it is more focused on gathering data and storing it inside the SQLite database.
-I made this app solely to put to test my web scraping abilities as a beginner programmer and build up some portfolio, therefore I did not use any python's Instagram library like such as instapy. Please NOTE as I mentioned this is just a personal project and I do not encourage anyone to use this app against Instagram's terms of use.
+I made this app solely to put to test my web scraping abilities as a beginner programmer and build up some portfolio, therefore I did not use any python's Instagram library like such as instapy.
 
 
 Features:
@@ -30,6 +30,9 @@ Features:
   
 
 In the end, anyone is welcome to contribute to this app. there is a lot of room for improvements. Please check my github for my other projects.
+
+
+Disclaimer:  Please NOTE as I mentioned this is just a personal project and I do not encourage anyone to use this app against Instagram's terms of use. if your account gets banned due to using this app, I am not responsible. use it at your own risk.
 
 
 DOWNLOAD EXE INSTALLER: https://1drv.ms/u/s!AjAyZs55CVVTaQS_MAbIXvbBd4c

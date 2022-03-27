@@ -29,10 +29,11 @@ Features:
 -Price/Phone
   
 
-In the end, anyone is welcome to contribute to this app. there is a lot of room for improvements. Please check my github for my other projects.
-
 
 Disclaimer:  Please NOTE as I mentioned this is just a personal project and I do not encourage anyone to use this app against Instagram's terms of use. if your account gets banned due to using this app, I am not responsible. use it at your own risk.
 
+
+
+In the end, anyone is welcome to contribute to this app. there is a lot of room for improvements. Please check my github for my other projects.
 
 DOWNLOAD EXE INSTALLER: https://1drv.ms/u/s!AjAyZs55CVVTaQS_MAbIXvbBd4c

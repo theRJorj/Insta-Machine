@@ -6,7 +6,7 @@ by R.Jorj
 
 
 InstaMachine is a post-oriented Instagram bot which means it is more focused on gathering data and storing it inside the SQLite database.
-I made this app solely to put to test my web scraping abilities as a beginner programmer and build up some portfolio, therefore I did not use any python's Instagram library like such as instapy.
+I made this app solely to put to test my web scraping abilities as a beginner programmer and build up some portfolio, therefore I did not use any python's Instagram library such as instapy.
 
 
 Features:
@@ -20,7 +20,7 @@ Features:
 8. Takes screenshots.
 9. Downloads all Images.
 10. Reports.
-11. Filers Data by:
+11. Filters Data by:
 -Image Recognition(image AI).
 -OCR or texts scan in images. (NOTE: You need to have tesseract installed on your pc. as a developer you can add new languages too)
 -Particular text on a caption.

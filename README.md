@@ -26,7 +26,7 @@ Features:
 -Particular text on a caption.
 -Likes count.
 -Date posted.
--Price/Phone
+-Price/Phone(Persian posts only)
   
 
 
